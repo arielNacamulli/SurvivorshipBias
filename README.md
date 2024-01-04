@@ -1,4 +1,3 @@
-
 # How to Lose Money Fast: A Financial Analysis Project
 
 ## Overview
@@ -24,6 +23,11 @@ git clone https://github.com/arielNacamulli/SurvivorshipBias
 cd SurvivorshipBias
 jupyter notebook
 ```
+
+## Result
+The code shows how to achieve this impossible performance.
+
+![survivorshipPlot](https://github.com/arielNacamulli/SurvivorshipBias/assets/57598969/d3f6ba41-f7be-46f0-9e0b-14008ea25977)
 
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
